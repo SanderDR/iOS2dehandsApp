@@ -1,6 +1,7 @@
 # iOS2dehandsApp
 
 Hello, welcome to the github repository of my assignment for Native Apps: iOS.
+To succesfully run the application please read " How to work with the application"
 
 ## What is the application ?
 
@@ -16,6 +17,7 @@ Every request in the backend uses the correct headers such as an Authorization h
 ## How to work with the application ?
 To succesfully work with the application you have to run 3 different things on your mac.
 You wil have to run the workspace from the frontend, the xcodeproj from the backend and your local MongoDB.
+To succesfully run the backend you will have to do `swift package generate-xcodeproj` first so that it generates all files that are needed.
 When running the application for the first time you will have to register a user in the application.
 After registering you will automaticly log in and see the menu.
 You can post ads and these are unique depending on the name and user.
