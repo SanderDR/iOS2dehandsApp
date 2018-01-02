@@ -1,0 +1,258 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+target 'backend' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for backend
+
+end
+
+target 'backendPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for backendPackageDescription
+
+end
+
+target 'BSON' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for BSON
+
+end
+
+target 'BSONPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for BSONPackageDescription
+
+end
+
+target 'Cheetah' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Cheetah
+
+end
+
+target 'CheetahPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CheetahPackageDescription
+
+end
+
+target 'CHTTPParser' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CHTTPParser
+
+end
+
+target 'CryptoKitten' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CryptoKitten
+
+end
+
+target 'CryptoKittenPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CryptoKittenPackageDescription
+
+end
+
+target 'ExtendedJSON' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ExtendedJSON
+
+end
+
+target 'GeoJSON' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for GeoJSON
+
+end
+
+target 'HeliumLogger' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for HeliumLogger
+
+end
+
+target 'HeliumLoggerPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for HeliumLoggerPackageDescription
+
+end
+
+target 'Kitura' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Kitura
+
+end
+
+target 'Kitura-netPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Kitura-netPackageDescription
+
+end
+
+target 'Kitura-TemplateEnginePackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Kitura-TemplateEnginePackageDescription
+
+end
+
+target 'KituraContracts' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for KituraContracts
+
+end
+
+target 'KituraContractsPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for KituraContractsPackageDescription
+
+end
+
+target 'KituraNet' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for KituraNet
+
+end
+
+target 'KituraPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for KituraPackageDescription
+
+end
+
+target 'KituraTemplateEngine' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for KituraTemplateEngine
+
+end
+
+target 'LoggerAPI' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for LoggerAPI
+
+end
+
+target 'LoggerAPIPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for LoggerAPIPackageDescription
+
+end
+
+target 'MongoKitten' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MongoKitten
+
+end
+
+target 'MongoKittenPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MongoKittenPackageDescription
+
+end
+
+target 'MongoSocket' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MongoSocket
+
+end
+
+target 'Schrodinger' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Schrodinger
+
+end
+
+target 'SchrodingerPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SchrodingerPackageDescription
+
+end
+
+target 'Socket' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Socket
+
+end
+
+target 'SocketPackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SocketPackageDescription
+
+end
+
+target 'SSLService' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SSLService
+
+end
+
+target 'SSLServicePackageDescription' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SSLServicePackageDescription
+
+end
